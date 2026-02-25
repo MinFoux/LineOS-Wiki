@@ -6,7 +6,8 @@ Downloading and uploading user made packages is not an added feature yet, so thi
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v04   | :white_check_mark: |
+|v05|:white_check_mark: |
+| v04   | :x: |
 | v03   | N/A                |
 | v02   | :x:                |
 | v01   | :x:                |
