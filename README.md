@@ -6,6 +6,8 @@ https://scratch.mit.edu/projects/1267671754/
 Here is the link to PTE++
 https://scratch.mit.edu/projects/406678232/
 
-(Ugh and i might as well put the files here but whatever)
+Line was made for one simple reason: _To further my understanding of the fundementals of computers by building my own._
+Line is also my entrance point to using Github, it may seem like a silly thing to use Github for a Scratch project of all things, but when you think about it as a test/practice, it makes a little bit more sense.
+My eyes hurt.
 
-"Well, that's neat that... that's that, but I don't really care. If you want me to look into it im fine, but no I just dont really care, at all." -Milo
+**Barbeque sauce.**
