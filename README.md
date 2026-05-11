@@ -1,5 +1,5 @@
 # LineOS
-A wiki for my Scratch OS called Line!
+A page for my Scratch OS called Line!
 Here is the link to the project:
 https://scratch.mit.edu/projects/1267671754/
 
@@ -14,7 +14,7 @@ The goal of the Line project is explained by this quote: "If you don't know how 
 
 Made using the unholy spawn of Codetorch and Turbowarp.
 
-**"Barbeque sauce."**
+**"Barbeque sauce."** -Milo
 
 If you ever get confused about the mentioning of "barbeque sauce", dont worry, its just another way for me to say "Nonsense" or "spagetthi code" or maybe even "rubbish". Just something that doesnt exist at all or is poorly put together.
 

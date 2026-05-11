@@ -19,7 +19,7 @@ Just be nice all the time.
 
 ## Enforcement
 
-Just be nice all the time.
+You be mean or do bad stuff, you have to leave.
 
 ## Enforcement Guidelines
 

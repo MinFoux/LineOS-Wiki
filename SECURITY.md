@@ -6,7 +6,8 @@ Downloading and uploading user made packages is not an added feature yet, so thi
 
 | Version | Supported          |
 | ------- | ------------------ |
-|v05|:white_check_mark: |
+|v06|:white_check_mark: |
+|v05|:x: |
 | v04   | :x: |
 | v03   | N/A                |
 | v02   | :x:                |
@@ -18,4 +19,4 @@ If you find a bug in my project, it would make me very happy if you told me.
 
 I will not accept a bug report if it is only present on older versions.
 
-If a change you are responsible for makes bugs in the project, it is your job to fix it.
+If a change you made is responsible for bugs/errors in the project, it is your job to fix it.
