@@ -21,3 +21,7 @@ If you ever get confused about the mentioning of "barbeque sauce", dont worry, i
 I am very proud of my work here, and I am not really sure how to show it off, so I guess if you are reading this, you are one in a million!
 
 "TO WIN THE GAME" -WOPR
+
+<img width="150" height="200" alt="Mr  iCMD" src="https://github.com/user-attachments/assets/dacd044f-4856-4740-b3ad-7daf5a4fe336" />
+
+Mr. iCMD, the Line mascot
